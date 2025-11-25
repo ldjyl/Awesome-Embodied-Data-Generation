@@ -16,9 +16,13 @@
 |------|-------|---------|-------|---------|---------|---------|-------------|---------|
 | 2025 |arXiv preprint | VIRAL | [VIRAL: Visual Sim-to-Real at Scale for Humanoid Loco-Manipulation](https://arxiv.org/pdf/2511.15200) | [![link](https://img.shields.io/badge/Website-9cf)](https://viral-humanoid.github.io/) | |Sim2Real |Teacher-student training | 4 |
 
-### Deformables
+### Deformable Simulation
 | Year | Venue | Acronym | Paper |Project | Repo@GitHub | Category | Comments | Rating |
 |------|-------|---------|-------|---------|---------|---------|-------------|---------|
-| 2025 |arXiv preprint | UniGarmentManip | [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903) | [![link](https://img.shields.io/badge/Website-9cf)](https://warshallrho.github.io/unigarmentmanip/) |[![GitHub](https://img.shields.io/github/stars/luhr2003/UniGarmentManip)](https://github.com/luhr2003/UniGarmentManip) | IsaacSim |Franka arm + 3 tasks | 3 |
+| 2024 |CVPR | UniGarmentManip | [UniGarmentManip: A Unified Framework for Category-Level Garment Manipulation via Dense Visual Correspondence](https://arxiv.org/abs/2405.06903) | [![link](https://img.shields.io/badge/Website-9cf)](https://warshallrho.github.io/unigarmentmanip/) |[![GitHub](https://img.shields.io/github/stars/luhr2003/UniGarmentManip)](https://github.com/luhr2003/UniGarmentManip) | PyFleX/ Nvidia FleX|Franka arm + 3 tasks | 3 |
+| 2024 | CVPR | GarmentLab | [GarmentLab: A Unified Simulation and Benchmark for Garment Manipulation](https://arxiv.org/abs/2411.01200) | [![link](https://img.shields.io/badge/Website-9cf)](https://garmentlab.github.io/) |[![GitHub](https://img.shields.io/github/stars/luhr2003/UniGarmentManip)](https://github.com/luhr2003/UniGarmentManip) | IsaacSim |Franka arm + 20 tasks + sim2real | 3.5 |
+| 2025 | IROS | GarmentPile | [GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation](https://arxiv.org/pdf/2503.09243) | [![link](https://img.shields.io/badge/Website-9cf)](https://garmentpile.github.io/) |[![GitHub](https://img.shields.io/github/stars/AlwaySleepy/Garment-Pile)](https://github.com/AlwaySleepy/Garment-Pile) | IsaacSim | Cluttered Garments| 3.5 |
+| 2025 | NeurIPS | DexGarmentLab | [DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy](https://arxiv.org/pdf/2505.11032) | [![link](https://img.shields.io/badge/Website-9cf)](https://wayrise.github.io/DexGarmentLab/) |[![GitHub](https://img.shields.io/github/stars/wayrise/DexGarmentLab)](https://github.com/wayrise/DexGarmentLab) | IsaacSim | DexHand Data Collection + 15 tasks + sim2real| 4 |
 
+  
 ### Co-training
