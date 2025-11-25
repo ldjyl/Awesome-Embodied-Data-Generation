@@ -24,6 +24,9 @@
 | 2025 | IROS | GarmentPile | [GarmentPile: Point-Level Visual Affordance Guided Retrieval and Adaptation for Cluttered Garments Manipulation](https://arxiv.org/pdf/2503.09243) | [![link](https://img.shields.io/badge/Website-9cf)](https://garmentpile.github.io/) |[![GitHub](https://img.shields.io/github/stars/AlwaySleepy/Garment-Pile)](https://github.com/AlwaySleepy/Garment-Pile) | IsaacSim | Cluttered Garments| 3.5 |
 | 2025 | NeurIPS | DexGarmentLab | [DexGarmentLab: Dexterous Garment Manipulation Environment with Generalizable Policy](https://arxiv.org/pdf/2505.11032) | [![link](https://img.shields.io/badge/Website-9cf)](https://wayrise.github.io/DexGarmentLab/) |[![GitHub](https://img.shields.io/github/stars/wayrise/DexGarmentLab)](https://github.com/wayrise/DexGarmentLab) | IsaacSim | DexHand Data Collection + 15 tasks + sim2real| 4 |
 | 2025 | arXiv preprint | FoldNet | [FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis](https://arxiv.org/pdf/2505.09109) | | | PyFlex + Blender | Asset synthesis + data generation| 3.5 |
+| 2025 | arXiv preprint | RGBench | [Real Garment Benchmark (RGBench): A Comprehensive Benchmark for Robotic Garment Manipulation featuring a High-Fidelity Scalable Simulator](https://arxiv.org/abs/2511.06434) |[![link](https://img.shields.io/badge/Website-9cf)]( https://rgbench.github.io/) | | New self-developed simulator | Benchmark + real physics params| 3.5 |
+| 2025 | openreview.net |  | [Learning Simulatable Models of Cloth with Spatially-varying Constitutive Properties for Robotics](https://openreview.net/pdf?id=OHO1hb4dpC) | | | Material modeling | Mass-spring net| 2 |
 
-  
+
+
 ### Co-training
